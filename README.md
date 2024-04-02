@@ -14,8 +14,8 @@ Output Structure: The analysis results will be organized and saved in an Excel f
 
 # Dependencies:
 
-Python (3.x recommended)
-BeautifulSoup (for web scraping)
-TextBlob (for sentiment analysis)
-NLTK (Natural Language Toolkit)
-textstat (for text analysis)
+# Python (3.x recommended)
+# BeautifulSoup (for web scraping)
+# TextBlob (for sentiment analysis)
+# NLTK (Natural Language Toolkit)
+# textstat (for text analysis)
